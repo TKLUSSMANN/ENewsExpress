@@ -6,4 +6,4 @@ This project used statistical analysis, A/B testing, and visualization to decide
 **Key Skills**: 
 Hypothesis Testing, A/B testing, Data Visualization, Statistical Inference, Business Statistics
 
-[View My Project](https://github.com/TKLUSSMANN/ENewsExpress/blob/main/DataScienceProject_Klussmann_ENews_StatisticalAnalysis.ipynb)
+[View My Project](https://github.com/TKLUSSMANN/ENewsExpress/blob/main/Klussmann_ENewsExpress_BusinessStatistics.ipynb)
